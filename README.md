@@ -2,151 +2,65 @@
     <img width=300 src="./assets/main.gif"/>    
     <br/>
     <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+DIMFLIX!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Samuel!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-    <a href="https://t.me/dimflix_official"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
-    <a href="https://www.youtube.com/DIMFLIX"><img src="https://img.shields.io/badge/-YouTube-f2cdcd?style=for-the-badge&logo=YouTube&logoColor=FF0000" alt="YouTube"/></a>
-    <a href="https://orcid.org/0009-0002-5036-3822"><img src="https://img.shields.io/badge/-ORCID-f5c2e7?style=for-the-badge&logo=orcid&logoColor=4F7DB3" alt="ORCID"/></a>
-    <a href="https://www.kaggle.com/dimflix/"><img src="https://img.shields.io/badge/-Kaggle-cba6f7?style=for-the-badge&logo=kaggle&logoColor=5F66E6" alt="Kaggle"/></a>
-    <br>
-    <a href="https://mynickname.com/id1843842"><img src="https://mynickname.com/img.php?nick=dimflix&sert=24&text=t8" alt="Nickname dimflix registred!" /></a>
+   
+    
 </div>
 
-<div align="center" justify-content="space-between">
-    <a href="./README-RU.md"><img src="https://img.shields.io/badge/README-RU-blue?color=eba0ac&labelColor=1C2325&style=for-the-badge"></a>
-	<a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=fab387&labelColor=fab387&style=for-the-badge"></a>
-</div>
 
-<div align="center">
-    <a href="https://user-badge.committers.top/russia/DIMFLIX"><img src="https://user-badge.committers.top/russia/DIMFLIX.svg"></a>
-</div>
 
-## 👻 A little about me... 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=DIMFLIX&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
-I am a **Full-Stack & Software Engineer** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
-
-[**Multiple times became the winner of international competitions**](#diplomas). 
-I am included in the **state register of persons with outstanding abilities**.
-
+I am a **Full-Stack & Software Engineer** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.<br>
 Currently I am engaged in the development of open-source projects and periodically fulfill orders on freelancing. I specialize in creating websites, applications, bots and neural networks.
 
-At the moment I am studying Rust for developing high-performance applications, as well as machine learning and neural networks.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
-```javascript
-const DIMFLIX = {
-    OS: ["Arch Linux"],
-    languages: {
-        highLevel: ["Python", "SQL"],
-        averageLevel: ["JavaScript"],
-        baseLevel: ["Rust", "C", "Java", "Typescript", "Bash"]
-    },
-    programming: {
-        backend: ["Django", "FastApi", "Flask", "RabbitMQ", "PyDantic"],
-        frontend: ["HTML", "CSS/SCSS", "VueJS"],
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
-        machine-learning: ["vaex", "pandas", "opencv", "scikit-learn"],
-        webScraping: ["aiohttp", "requests", "BeautifulSoup4", "Selenium"],
-        bots: ["aiogram", "pyrogram", "vkbottle"],
-        devOps: ["Docker", "Nginx", "Ngrok"],
-        GUI: {
-            Desktop: ["PyQT6", "Pyside6", "Tauri", "JavaFX"],
-            Mobile: ["Ionic + Capacitor", "AndroidJS", "Tauri"]
-        }
-    },
-    UI_UX: ["Photoshop", "Illustrator", "XD", "Figma"],
-};
-```
 
-## 🏢 My Organizations (Clickable)
+
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 
 <div align="center">
-<table>
-<tr>
-<td><a href="https://github.com/meowrch"><img src="./assets/meowrch.png" width="330" height="180"/></a></td>
-<td><a href="https://github.com/DIMFLIX-Hackathons"><img src="./assets/hackathons.png" width="330" height="180"/></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/DIMFLIX-Designs"><img src="./assets/designs.png" width="330" height="180"/></a></td>
-<td><a href="https://github.com/DIMFLIX-EDUCATION"><img src="./assets/education.png" width="330" height="180"/></a></td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
+  
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
+<br><br> 
 
-> [!CAUTION]
-> My projects are also stored in organizations. \
-> In fact, the best projects are often stored there.
+<br>
+<h3 align="left">Connect with me:</h3>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+<!-- <p align="left"> -->
+<a href="www.linkedin.com/in/samuel1905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Samuel" width="40" /></a>
+<a href="https://www.youtube.com/@therilamamea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" width="40" /></a>
+<a href="https://www.instagram.com/_.me_samx?igsi=Y2llMWFpb3FvdHJ6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" width="40" /></a>
+<!-- </p> -->
+ </div>
+<br>
 
-## ☕ Support Me
-If you would like to support me or any of my projects, you can send a donation to the following cryptocurrency wallets:
 
-| CryptoCurrencies | Address                                        |
-| ------------ | -------------------------------------------------- |
-| **TON / USDT(TON)**      | `UQB9qNTcAazAbFoeobeDPMML9MG73DUCAFTpVanQnLk3BHg3` |
-| **USDT (TRC20)**     | `TBTZ5RRMfGQQ8Vpf8i5N8DZhNxSum2rzAs`               |
-| **Ethereum** | `0x56e8bf8Ec07b6F2d6aEdA7Bd8814DB5A72164b13`       |
-| **Bitcoin**  | `bc1qt5urnw7esunf0v7e9az0jhatxrdd0smem98gdn`       |
 
-<details open>
-<summary><a name="patents"><a/><h2>🥇 Patents</h2></summary>
-    <div align="center">
-        <img src="./assets/patents/1.png" width=200 alt=""/>
-        <img src="./assets/patents/1_1.png" width=200 alt=""/>
-    </div>
-</details>
 
-<details open>
-<summary><a name="diplomas"><a/><h2>🏆 Prize places and diplomas</h2></summary>
-    <div align="center">
-        <img src="./assets/diploms/it-planet-ai-спорттех-финал.png" width=200 alt="IT-Planet Спорттех Финал 3 Место"/>
-        <img src="./assets/diploms/Международный-ВШЭ-Дроны.jpg" width=200 alt="Международный ВШЭ - Дроны"/>
-        <img src="./assets/diploms/Международный-ВШЭ.png" width=200 alt="Высшая Школа Экономики Международный хакатон"/>
-        <img src="./assets/diploms/Диплом-Минина.png" width=200 alt="MininCode Диплом"/>
-        <img src="./assets/diploms/IT-Чкалов.png" width=200 alt="IT чкалов"/>
-    </div>
-</details>
 
-<details open>
-<summary><a name="significant-certificates"><a/><h2>⚜️ Significant certificates</h2></summary>
-<img src="./assets/significant-certificates/пфо-цп.png" width=200 alt="Нижний Новгород, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/цп-омск.png" width=200 alt="Омск, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/Атомик-Хак.png" width=200 alt="Атомик Хак сертификат"/>
-<img src="./assets/significant-certificates/москва.png" width=200 alt="Москва, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/хабаровск.png" width=200 alt="Хабаровск, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/всероссийский.png" width=200 alt="Нижний Новгород, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/SberGarage.png" width=200 alt="Сбер гараж сертификат"/>
-<img src="./assets/significant-certificates/it-planet ai-спорттех.png" width=200 alt="IT-Planet Спорттех"/>
-<img src="./assets/significant-certificates/it-planet postgresql.png" width=200 alt="IT-Planet PostgreSQL"/>
-<img src="./assets/significant-certificates/Сертификат-Минина.png" width=200 alt="MininCode сертификат"/>
-</details>
 
-<details close>
-<summary><a name="certificates"><a/><h2>🗂 Ordinary Certificates</h2></summary>
-    <div align="center">
-        <img src="./assets/certificates/atomic-hack-3.0.jpg" width=200 alt="Atomic Hack 3.0 Hackaton"/>
-        <img src="./assets/certificates/HR-T1.png" width=200 alt="HRSystem T1 Hackaton"/>
-        <img src="./assets/certificates/цифровизация-во-благо.png" width=200 alt="Премия МЦО «Цифровизация во благо»"/>
-        <img src="./assets/certificates/ProjectSystemINNOHack.png" width=200 alt="ProjectSystem INNOHack"/>
-        <img src="./assets/certificates/Comparison-ResumeVacancy.png" width=200 alt="Comparison ResumeVacancy"/>
-        <img src="./assets/certificates/траектория-будущего-python.png" width=200 alt="траектория будущего python"/>
-        <img src="./assets/certificates/траектория-будущего-мобильная-разработка.png" width=200 alt="траектория будущего мобильная разработка"/>
-        <img src="./assets/certificates/траектория-будущего-devops.png" width=200 alt="траектория будущего devops"/>
-        <img src="./assets/certificates/траектория-будущего-нейросетевое-искусство.png" width=200 alt="траектория будущего нейросетевое искусство"/>
-        <img src="./assets/certificates/траектория-будущего-кибербезопасность.png" width=200 alt="траектория будущего кибербезопасность"/>
-        <img src="./assets/certificates/траектория-будущего-графический-дизайн.png" width=200 alt="траектория будущего графический дизайн"/>
-        <img src="./assets/certificates/траектория-будущего-финансовая-грамотность.png" width=200 alt="траектория будущего финансовая грамотность"/>
-    </div>
-</details>
-
-<details open>
-<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=DIMFLIX&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
-    <img alt="DIMFLIX profile Trophy's" src="https://github-profile-trophy.vercel.app/?username=DIMFLIX&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
-    <img alt="DIMFLIX Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DIMFLIX&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-	<div align="center">
-	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIMFLIX&layout=compact&theme=transparent"/>
-	    <img src="https://github-readme-stats.vercel.app/api?username=DIMFLIX&show_icons=true&theme=transparent"/>
-	    <img alt="DIMFLIX's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=DIMFLIX&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
-	</div>
-</details>
